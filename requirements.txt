@@ -1,0 +1,14 @@
+openai
+httpx
+tenacity
+numpy
+Pillow
+json-repair
+PyMuPDF
+wordsegment
+hanzidentifier
+lingua-language-detector
+python-dateutil
+opencv-python
+python-dotenv
+scikit-learn
